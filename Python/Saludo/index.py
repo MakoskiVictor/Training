@@ -1,3 +1,4 @@
+import time
 from rich.console import Console
 
 # Inicializo la consola de rich
@@ -18,6 +19,7 @@ try:
         console.print(f'[bold green]Vaya, {nombre}, veo que eres menor de edad.\n')
 except ValueError:
     console.print('[bold red]Debías ingresar un número válido :(')
+    time.sleep(5)
     exit()
 
 
@@ -29,3 +31,5 @@ elif continuar.lower() in ('no', 'n'):
     console.print('[bold red]Una lástima. Nos vemos :(')
 else:
     console.print('[bold red]Lo lamento, no entiendo tu respuesta. Por favor, solo responde con Sí o No')
+time.sleep(5)
+exit()
