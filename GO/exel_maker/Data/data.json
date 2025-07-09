@@ -1,0 +1,183 @@
+[
+  {
+    "Nombre": "Juan Pérez",
+    "Edad": 28,
+    "Correo": "juan.perez@example.com",
+    "Activo": true,
+    "Pais": "Argentina",
+    "FechaRegistro": "2023-04-15",
+    "Puntos": 1540
+  },
+  {
+    "Nombre": "Ana Gómez",
+    "Edad": 34,
+    "Correo": "ana.gomez@example.com",
+    "Activo": false,
+    "Pais": "México",
+    "FechaRegistro": "2023-02-10",
+    "Puntos": 2200
+  },
+  {
+    "Nombre": "Luis Torres",
+    "Edad": 45,
+    "Correo": "luis.torres@example.com",
+    "Activo": true,
+    "Pais": "Chile",
+    "FechaRegistro": "2022-11-01",
+    "Puntos": 1980
+  },
+  {
+    "Nombre": "Claudia López",
+    "Edad": 29,
+    "Correo": "claudia.lopez@example.com",
+    "Activo": true,
+    "Pais": "Perú",
+    "FechaRegistro": "2023-06-18",
+    "Puntos": 1720
+  },
+  {
+    "Nombre": "Carlos Méndez",
+    "Edad": 38,
+    "Correo": "carlos.mendez@example.com",
+    "Activo": false,
+    "Pais": "Colombia",
+    "FechaRegistro": "2021-09-12",
+    "Puntos": 1380
+  },
+  {
+    "Nombre": "Mariana Ruiz",
+    "Edad": 33,
+    "Correo": "mariana.ruiz@example.com",
+    "Activo": true,
+    "Pais": "Uruguay",
+    "FechaRegistro": "2022-03-05",
+    "Puntos": 1890
+  },
+  {
+    "Nombre": "Andrés Castro",
+    "Edad": 41,
+    "Correo": "andres.castro@example.com",
+    "Activo": false,
+    "Pais": "Ecuador",
+    "FechaRegistro": "2022-12-20",
+    "Puntos": 2010
+  },
+  {
+    "Nombre": "Lucía Ramírez",
+    "Edad": 26,
+    "Correo": "lucia.ramirez@example.com",
+    "Activo": true,
+    "Pais": "Bolivia",
+    "FechaRegistro": "2023-07-01",
+    "Puntos": 1450
+  },
+  {
+    "Nombre": "Pedro Sánchez",
+    "Edad": 31,
+    "Correo": "pedro.sanchez@example.com",
+    "Activo": true,
+    "Pais": "España",
+    "FechaRegistro": "2023-01-25",
+    "Puntos": 2330
+  },
+  {
+    "Nombre": "Isabel Fernández",
+    "Edad": 30,
+    "Correo": "isabel.fernandez@example.com",
+    "Activo": false,
+    "Pais": "Paraguay",
+    "FechaRegistro": "2022-08-16",
+    "Puntos": 1640
+  },
+  {
+    "Nombre": "Fernando Díaz",
+    "Edad": 50,
+    "Correo": "fernando.diaz@example.com",
+    "Activo": true,
+    "Pais": "Venezuela",
+    "FechaRegistro": "2021-12-01",
+    "Puntos": 2480
+  },
+  {
+    "Nombre": "Valeria Soto",
+    "Edad": 27,
+    "Correo": "valeria.soto@example.com",
+    "Activo": true,
+    "Pais": "Argentina",
+    "FechaRegistro": "2023-05-07",
+    "Puntos": 1200
+  },
+  {
+    "Nombre": "Gustavo Ríos",
+    "Edad": 37,
+    "Correo": "gustavo.rios@example.com",
+    "Activo": false,
+    "Pais": "México",
+    "FechaRegistro": "2022-04-19",
+    "Puntos": 1750
+  },
+  {
+    "Nombre": "Natalia Cabrera",
+    "Edad": 39,
+    "Correo": "natalia.cabrera@example.com",
+    "Activo": true,
+    "Pais": "Chile",
+    "FechaRegistro": "2023-03-14",
+    "Puntos": 2120
+  },
+  {
+    "Nombre": "Raúl Herrera",
+    "Edad": 36,
+    "Correo": "raul.herrera@example.com",
+    "Activo": true,
+    "Pais": "Colombia",
+    "FechaRegistro": "2023-02-28",
+    "Puntos": 1870
+  },
+  {
+    "Nombre": "Sofía Delgado",
+    "Edad": 29,
+    "Correo": "sofia.delgado@example.com",
+    "Activo": false,
+    "Pais": "Perú",
+    "FechaRegistro": "2022-10-10",
+    "Puntos": 1650
+  },
+  {
+    "Nombre": "Diego Navarro",
+    "Edad": 42,
+    "Correo": "diego.navarro@example.com",
+    "Activo": true,
+    "Pais": "Uruguay",
+    "FechaRegistro": "2023-01-02",
+    "Puntos": 1900
+  },
+  {
+    "Nombre": "Camila Vargas",
+    "Edad": 24,
+    "Correo": "camila.vargas@example.com",
+    "Activo": true,
+    "Pais": "Ecuador",
+    "FechaRegistro": "2023-07-05",
+    "Puntos": 1580
+  },
+  {
+    "Nombre": "Tomás Aguilar",
+    "Edad": 32,
+    "Correo": "tomas.aguilar@example.com",
+    "Activo": false,
+    "Pais": "Bolivia",
+    "FechaRegistro": "2021-06-23",
+    "Puntos": 1490
+  },
+  {
+    "Nombre": "Paula Moreno",
+    "Edad": 35,
+    "Correo": "paula.moreno@example.com",
+    "Activo": true,
+    "Pais": "Paraguay",
+    "FechaRegistro": "2023-06-30",
+    "Puntos": 2050
+  }
+]
+
